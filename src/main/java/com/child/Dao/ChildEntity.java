@@ -55,6 +55,6 @@ public class ChildEntity {
 	public void setChildSalary(double childSalary) {
 		ChildSalary = childSalary;
 	}
-
+//added comments
 	
 }
